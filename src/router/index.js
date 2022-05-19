@@ -13,15 +13,15 @@ export default new Router({
       name: 'index',
       component: index
     }, {
-      path: '/OneOne',
+      path: '/1-1',
       name: 'OneOne',
       component: OneOne
     }, {
-      path: '/OneTwo',
+      path: '/1-2',
       name: 'OneTwo',
       component: OneTwo
     }, {
-      path: '/OneThree',
+      path: '/1-3',
       name: 'OneThree',
       component: OneThree
     }

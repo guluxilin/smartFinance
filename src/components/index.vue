@@ -45,14 +45,12 @@ export default {
   },
   data () {
     return {
-
+      choosePage: [[]]
     }
   },
   mounted () {
-
   },
   methods: {
-
   },
   watch: {
 
